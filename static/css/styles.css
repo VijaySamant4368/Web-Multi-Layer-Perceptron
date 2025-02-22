@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+input {
+    margin: 5px;
+    padding: 10px;
+}
+
+#page-container {
+    display: flex;
+}
+
+
+#output {
+    width: 70vw;
+    max-height: 800px;
+}
+
+canvas {
+    border: 1px solid #000;
+    margin-top: 20px;
+}
